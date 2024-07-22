@@ -1093,5 +1093,15 @@ form div:last-child{
     color: white;
     font-weight: 500;
 }
+.dev-link{
+	font-size: 14px;
+	color: #fff;
+	text-align: center;
+	margin-top: 20px;
+}
+.dev-link a{
+	color: #fff;
+	text-decoration: underline;
+}
 
 /* footer */
