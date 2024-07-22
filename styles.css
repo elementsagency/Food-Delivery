@@ -1099,6 +1099,7 @@ form div:last-child{
 	text-align: center;
 	margin-top: 20px;
 	padding: 0px 15px;
+	line-height: 150%;
 }
 .dev-link a{
 	color: #fff;
